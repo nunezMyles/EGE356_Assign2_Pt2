@@ -1,1 +1,1 @@
-# EGE356_Assign2_Pt2
+# IoT project w/ Modbus, MQTT (to be documented)
