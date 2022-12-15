@@ -1,1 +1,5 @@
-# IoT project w/ Modbus, MQTT (to be documented)
+# IoT Modbus & MQTT Project
+
+##Features
+(to be documented)
+
